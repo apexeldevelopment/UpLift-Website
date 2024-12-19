@@ -71,8 +71,10 @@ Ensure you have the following installed on your system:
   
 ---
 
-**Directory Structure**
-``bash
+## Directory Structure
+
+The directory structure of the project is as follows:
+
 uplift-website/
 ├── client/         # React frontend
 ├── server/         # Node.js backend
